@@ -57,7 +57,7 @@ requests
 
 1. ▶️ Start the bot by running:
    ```
-   python bot.py
+   python bot_ip-.py
    ```
 
 2. 🤖 Start a conversation with your bot in Telegram by typing `/start`.
