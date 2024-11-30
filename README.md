@@ -1,5 +1,7 @@
 # 🌍 Telegram IP Geolocation Bot
 
+[![CodeFactor](https://www.codefactor.io/repository/github/cyberscopetoday/telegram_bot_ip/badge)](https://www.codefactor.io/repository/github/cyberscopetoday/telegram_bot_ip)
+
 This is a simple Telegram bot that provides geolocation information for IP addresses. The bot supports multiple languages, including English, Russian, and Slovak.
 
 ## ✨ Features
