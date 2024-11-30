@@ -1,5 +1,7 @@
 # 🌍 Telegram IP Geolocation Bot
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8385a803a8e544acbf820cda674224f5)](https://app.codacy.com/gh/CyberScopeToday/telegram_bot_ip?utm_source=github.com&utm_medium=referral&utm_content=CyberScopeToday/telegram_bot_ip&utm_campaign=Badge_Grade)
+
 This is a simple Telegram bot that provides geolocation information for IP addresses. The bot supports multiple languages, including English, Russian, and Slovak.
 
 ## ✨ Features
